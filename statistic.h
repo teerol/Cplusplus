@@ -1,3 +1,8 @@
+//  CREATED BY Teemu Eerola in December 2020 using Qt-creator.
+//  This is a statistic class part of game that I made for university course project.
+//  The Game includes player who is moving using busses and 
+//  collects points in map of Tampere.
+
 #ifndef STATISTIC_H
 #define STATISTIC_H
 
